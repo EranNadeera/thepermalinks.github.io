@@ -1,0 +1,15 @@
+<svg width="1440" height="1027" viewBox="0 0 1440 1027" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="dime82mrwa">
+            <stop stop-color="#3D68E6" offset="0%"/>
+            <stop stop-color="#F86334" offset="100%"/>
+        </linearGradient>
+        <filter x="-13.6%" y="-23.1%" width="127.2%" height="146.2%" filterUnits="objectBoundingBox" id="udc78b8kab">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".731">
+        <ellipse fill="url(#dime82mrwa)" opacity=".475" filter="url(#udc78b8kab)" cx="733" cy="552.5" rx="552" ry="324.5"/>
+        <path fill-opacity=".39" fill="#FFF" d="M0 0h1440v939H0z"/>
+    </g>
+</svg>

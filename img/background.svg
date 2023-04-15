@@ -1,0 +1,19 @@
+<svg width="1441" height="702" viewBox="0 0 1441 702" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="17.78%" y1="16.128%" x2="101.032%" y2="91.131%" id="x700tvw6lb">
+            <stop stop-color="#3D68E6" offset="0%"/>
+            <stop stop-color="#F86334" offset="100%"/>
+        </linearGradient>
+        <filter x="-15.3%" y="-15.3%" width="130.6%" height="130.6%" filterUnits="objectBoundingBox" id="5d28c12stc">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"/>
+        </filter>
+        <path id="f8zmwdboxa" d="M0 0h1441v702H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="p8zlznhcxd" fill="#fff">
+            <use xlink:href="#f8zmwdboxa"/>
+        </mask>
+        <circle fill="url(#x700tvw6lb)" opacity=".475" filter="url(#5d28c12stc)" mask="url(#p8zlznhcxd)" cx="849.5" cy="350.5" r="490.5"/>
+        <path fill-opacity=".39" fill="#FFF" mask="url(#p8zlznhcxd)" d="M0 0h1441v702H0z"/>
+    </g>
+</svg>
